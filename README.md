@@ -4,7 +4,7 @@
 
 喵宇宙把分散的資料、實用工具與專業知識整理成垂直網站。你可以查附近診所、幼兒園、垃圾車與停車場，也可以做長照、赴日或投資研究的功課。各站專注一種讀者需求，共用資料來源規格、內容治理與逐步串接的會員服務。
 
-[現有喵宇宙入口](https://xmy.tw/meow-universe) · [官方驗證中心](https://xmy.tw/official) · [第一次來怎麼開始](https://xmy.tw/guides) · [會員中心](https://xmy.tw/member) · [專家投稿](https://xmy.tw/contribute)
+[XMY 創辦人與品牌母站](https://xmy.tw/) · [公開更新紀錄](CHANGELOG.md) · [現有喵宇宙入口](https://xmy.tw/meow-universe) · [官方驗證中心](https://xmy.tw/official) · [第一次來怎麼開始](https://xmy.tw/guides) · [會員中心](https://xmy.tw/member) · [專家投稿](https://xmy.tw/contribute)
 
 ## 已經做了什麼
 
@@ -20,6 +20,10 @@
 
 - [官方主站企劃與內容樹](SITE-PLAN.md) · 首頁文案、資訊架構、頁面任務與驗收
 - [已完成事項與公開路線圖](STATUS-AND-ROADMAP.md) · 成果、發版紀錄、試點與三階段工作
+
+## 母站與站群
+
+- [XMY｜xmy.tw](https://xmy.tw/) · 喵宇宙的創辦人與品牌母站，提供觀點、研究、專家投稿、官方驗證與會員入口。公開更新與各子站一同收錄於[更新紀錄](CHANGELOG.md)。
 
 ## 喵宇宙子站連結
 
@@ -179,4 +183,4 @@
 | [社群喵](https://socialmeow.com.tw/) · [心理測驗喵](https://psychtestmeow.com.tw/) | 公開頁面顯示維護中 |
 | [澳洲喵](https://australiameow.com.tw/) · [韓國喵](https://koreameow.com.tw/) · [房仲喵](https://realestateagentmeow.com.tw/) · [熟齡喵](https://shulingmeow.com.tw/) · [素食喵](https://veggiemeow.com.tw/) | 有站點登錄，公開營運待複核 |
 
-站點目錄以對外正式主網域為單位。創辦人網站、會員入口與各站內的專題頁另提供連結。發現網址失效、改名或分類需要調整，可以透過此專案的 Issues 提供站名、網域與可核對的公開來源。
+站點目錄以對外正式主網域為單位。XMY 母站、會員入口與各站內的專題頁另提供連結。發現網址失效、改名或分類需要調整，可以透過此專案的 Issues 提供站名、網域與可核對的公開來源。
