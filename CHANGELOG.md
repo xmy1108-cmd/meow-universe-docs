@@ -9,6 +9,18 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-20
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| 台灣交通喵 | 平台與查詢 | 車站、路線與內容改由資料庫即時產生頁面。更新公開站點地圖，涵蓋 260 個車站、495 條路線、250 篇文章及 115 條攻略，方便讀者從車站與跨城路線接續查轉乘和景點交通。 | [站點地圖](https://twtransitmeow.com.tw/sitemap.xml) · [車站範例](https://twtransitmeow.com.tw/station/tra/badouzi/) · [阿里山交通攻略](https://twtransitmeow.com.tw/guide/alishan/) |
+| 地址喵 | 查詢與網址 | 擴大行政區與道路的線上查詢覆蓋，讀者可按區查三碼郵遞區號、道路和官方英譯。切換後有 4 個舊道路網址暫時無法開啟，包含南投縣集集鎮育才街。 | [集集鎮道路清單](https://addressmeow.com.tw/南投縣/集集鎮/) · [民生路查詢](https://addressmeow.com.tw/南投縣/集集鎮/民生路/) · [暫無法開啟的舊網址](https://addressmeow.com.tw/南投縣/集集鎮/育才街/) |
+| 公司喵 | 平台與查詢 | 公司詳情改由資料庫即時產生頁面。讀者可沿用既有公司網址查統編、登記狀態及資料來源。 | [公司查詢入口](https://companymeow.com.tw/lookup/) · [公司詳情範例](https://companymeow.com.tw/company/96979933/) |
+| 溫泉喵 | 平台更新 | 溫泉區、業者與文章等公開頁面切換為伺服器端提供，讀者可沿用既有網址查溫泉區、標章業者與泡湯指南。 | [溫泉區總覽](https://hotspringmeow.com.tw/areas/) · [礁溪溫泉](https://hotspringmeow.com.tw/areas/jiaoxi/) |
+| 營養喵 | 內容與平台 | 發布新版營養資料與文章頁面，更新部分文章和配圖。讀者可沿用食物營養、比較工具與飲食文章的既有網址查閱。 | [鮑魚營養資料](https://nutrimeow.com.tw/food/abalone/) · [酒類熱量指南](https://nutrimeow.com.tw/articles/alcohol-calories-by-official-data/) |
+| 卡牌喵 | 資料批次更新 | 公開來源紀錄由 396 增至 402 筆，資料頁仍列出 784 張卡與 10 個系列，方便查卡時追溯資料出處。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+| 喵宇宙共同平台 | 跨站導覽 | 16 站首頁加入診所喵推薦入口，方便讀者查今天、週末或夜間的固定門診。涵蓋里長喵、台股喵、日股喵、美股喵、法律喵、勞工喵、稅務喵、按摩喵、沙龍喵、月子喵、徵信喵、才藝喵、天氣防災喵、EMBA 喵、發票喵及健康喵。 | [里長喵](https://villagemeow.com.tw/) · [法律喵](https://lawmeow.com.tw/) · [健康喵](https://healthmeow.com.tw/) · [診所喵今天看診](https://clinicmeow.com.tw/open/today/) |
+
 ## 2026-11-19
 
 | 站點 | 分類 | 更新 | 公開來源 |
