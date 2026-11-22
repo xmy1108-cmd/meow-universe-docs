@@ -9,12 +9,22 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-22
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| 韓國喵 | 平台更新 | 簽證、城市攻略與行前準備等公開頁面改由伺服器從資料庫提供。讀者可沿用原網址查入境、交通與旅遊資訊。 | [韓國喵首頁](https://koreameow.com.tw/) · [韓國出發前清單](https://koreameow.com.tw/articles/pre-departure-checklist/) |
+| 葡萄牙喵 | 平台更新 | 旅遊、城市景點與簽證指南等公開頁面改由伺服器從資料庫提供。既有網址可繼續用來查行程與赴葡前要準備的事項。 | [葡萄牙喵首頁](https://portugalmeow.com.tw/) · [旅遊規劃](https://portugalmeow.com.tw/articles/topic/travel/) · [簽證移居](https://portugalmeow.com.tw/articles/topic/visa-immigration/) |
+| 匹克球喵 | 活動資料更新 | 11 月 19 至 21 日的大專校院匹克球錦標賽從近期活動清單移出，詳情頁仍可查閱並標示已結束。近期活動目錄列出 5 場活動，方便讀者查看仍可參加的場次。 | [近期活動](https://pickleballmeow.com.tw/events) · [已結束賽事](https://pickleballmeow.com.tw/events/ctpf-university-championship-2026) |
+| 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 414 筆，讀者可查核卡牌資料的出處和更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+
 ## 2026-11-21
 
 | 站點 | 分類 | 更新 | 公開來源 |
 | --- | --- | --- | --- |
 | 台股喵 | 資料批次更新 | 公開 11 月 20 日交易資料與研究包，整理上市、上櫃收盤結果及產業表現。讀者可從最近交易日的資料找到個股與產業研究入口。 | [11 月 20 日研究包](https://twstockmeow.com.tw/daily/2026-11-20/) · [最近交易日](https://twstockmeow.com.tw/today/) |
 | 卡牌喵 | 資料批次更新 | 增加 6 筆公開來源紀錄，累計 408 筆，供讀者查卡時核對資料出處與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+| 德國喵 | 平台更新 | 簽證、留學與工作指南等公開頁面改由伺服器從資料庫提供。原網址可繼續使用，頁尾也可前往隱私權與廣告 Cookie 說明。 | [德國喵首頁](https://germanymeow.com.tw/) · [簽證與居留指南](https://germanymeow.com.tw/visa/) |
 
 ## 2026-11-20
 
