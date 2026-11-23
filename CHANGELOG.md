@@ -9,6 +9,26 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-23
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| XMY（xmy.tw） | 專題發布 | 公開「醫區宅」專題 31 篇，含主指南與六組延伸閱讀，新增相關標籤頁。讀者可比較就醫動線、無障礙、房價和持有成本，並從專題前往診所、長照、房貸與停車查詢。 | [醫區宅主指南](https://xmy.tw/articles/medical-housing) · [醫區宅標籤](https://xmy.tw/tag/medical-housing) · [看屋檢查表](https://xmy.tw/articles/medical-housing-viewing-checklist) |
+| XMY（xmy.tw） | 內容發布 | 公開 8 篇 2028 年 8 月生活行事曆文章，涵蓋開學收心、大學新生預算、父親節、祖父母節與暑假閱讀，供家庭提前規劃。 | [開學收心](https://xmy.tw/articles/back-to-school-2028-screen-time-deal) · [大學新生預算](https://xmy.tw/articles/freshman-2028-three-money-lines) · [祖父母節](https://xmy.tw/articles/grandparents-day-2028-at-home) |
+| XMY（xmy.tw） | 研究發布 | 公開 4 篇內容產業研究，涵蓋自媒體帳號估值、AI 內容收入入帳時程、AI 影音內製與外包，以及海外短劇研究的資料索引。讀者可用來比較估價、製作分工與來源。 | [自媒體估值](https://xmy.tw/articles/social-media-account-valuation-four-methods) · [AI 內容現金流](https://xmy.tw/articles/ai-content-cash-flow-cycles-2026) · [AI 影音分工](https://xmy.tw/articles/ai-video-production-inhouse-outsourcing-boundary) · [短劇研究索引](https://xmy.tw/articles/short-drama-research-index-2026) |
+| XMY（xmy.tw） | 網站導覽 | 首頁新增專欄作家區，主選單與頁尾加入「專欄作家」及「專家共創專欄」。讀者可從首頁了解作者專長並進入專欄。 | [XMY 首頁](https://xmy.tw/) · [專欄作家](https://xmy.tw/experts) · [專家共創專欄](https://xmy.tw/columns) |
+| XMY（xmy.tw） | RSS 更新 | RSS 新增 169 筆文章項目，其中 126 筆已列於先前的站點地圖。訂閱者可在閱讀器查看本次新內容與補列的既有文章。 | [XMY RSS](https://xmy.tw/feed.xml) |
+| ALLinAI 商學院 | 專家專欄 | 刊登一篇用 AI 助理承接交辦工作並回報的實務分享。讀者可參考固定回報格式、使用白話和附驗收證據等做法。 | [專家專欄](https://allinai.com.tw/columns/) · [AI 工作流程專欄](https://allinai.com.tw/columns/test) |
+| 喵宇宙共同平台 | 專欄導覽 | ALLinAI 商學院、航空喵、鍋具喵、文案喵、除濕機喵、考試喵、菜單喵、電費喵與步道喵加入專家專欄選單，讀者可從各站首頁前往專欄。 | [ALLinAI 商學院](https://allinai.com.tw/) · [航空喵](https://aviationmeow.com.tw/) · [步道喵](https://trailmeow.com.tw/) |
+| 喵宇宙共同平台 | 平台更新 | 17 站公開頁面切換為由伺服器從資料庫提供，既有網址可繼續使用。涵蓋文案喵、坐墊喵、除濕機喵、菜單喵、電費喵、航空喵、鍋具喵、考試喵、步道喵、ALLinAI 商學院、福委喵、保健品喵、宵夜喵、水晶喵、科學園區喵、卡牌喵、橋牌喵。 | [文案喵](https://copywritingmeow.com.tw/) · [科學園區喵](https://scienceparkmeow.com.tw/) · [橋牌喵](https://bridgemeow.com.tw/) |
+| 喵宇宙共同平台 | 平台更新 | 另有 41 站的公開頁面分批切換為由伺服器從資料庫提供。讀者可繼續使用既有的查詢、工具與文章入口。涵蓋洗錢防制喵、羽球喵、商務中心喵、信用卡喵、ESG喵、健康喵、私密喵、慾望喵、益生菌喵、高蛋白喵、睡眠喵、里長喵、纏繞喵、體脂計喵、馬來西亞喵、枕頭喵、等等喵、移民喵、發票喵、JP to TW、法律喵、物理治療喵、關係喵、TW2JP、TW to JP、AI 加拿大、中國股市喵、徵信喵、EMBA喵、日股喵、勞工喵、按摩喵、才藝喵、稅務喵、台股喵、美股喵、天氣防災喵、月子喵、政府喵、沙龍喵、日本買房喵。 | [睡眠喵](https://sleepmeow.com.tw/) · [法律喵](https://lawmeow.com.tw/) · [台股喵](https://twstockmeow.com.tw/) · [沙龍喵](https://salonmeow.com.tw/) · [日本買房喵](https://jphousemeow.com.tw/) |
+| 地址喵、公司喵 | 平台更新 | 公開頁面的資料庫供應範圍從地址資料與公司詳情擴及整站，讀者可沿用原網址查詢，也可繼續使用文章與工具入口。 | [地址喵指南](https://addressmeow.com.tw/articles/) · [公司喵文章](https://companymeow.com.tw/articles/) |
+| 政府喵 | 資料批次更新 | 更新政府機關查詢資料，首頁標示資料版本為 11 月 22 日。讀者可按縣市查詢機關，並在洽公前核對資料日期。 | [政府機關查詢](https://govmeow.com.tw/) |
+| TW2JP（jpmeow.com.tw） | 網址變更 | 京都、初次赴日攻略、日本在留資格指南及工具入口等 4 個舊網址改為轉址，分別帶讀者前往日本喵或移民喵的對應頁面。 | [京都舊入口](https://jpmeow.com.tw/city/kyoto/) · [在留資格舊入口](https://jpmeow.com.tw/guide/japan-isa-koryu-jr-split/) · [工具舊入口](https://jpmeow.com.tw/tool/) |
+| 停車喵 | 工具與搜尋 | 將 2026 耶誕與跨年商圈停車工具納入站點地圖。讀者可依城市與活動查官方交管、停車、接駁及大眾運輸資訊。 | [耶誕與跨年停車工具](https://parkingmeow.com.tw/tools/2026-holiday-event-parking/) |
+| 卡牌喵 | 資料批次更新 | 增加 6 筆公開來源紀錄，累計 420 筆，讀者可查核卡牌資料出處與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+| 匹克球喵 | 活動資料更新 | 土城桐花盃及大專教職員聯誼賽結束後移出近期清單，兩場詳情仍可查。近期活動目錄保留後續 3 場，方便讀者查看未結束的場次。 | [近期活動](https://pickleballmeow.com.tw/events) · [土城桐花盃](https://pickleballmeow.com.tw/events/tucheng-tonghua-cup-pickleball-2026) |
+
 ## 2026-11-22
 
 | 站點 | 分類 | 更新 | 公開來源 |
