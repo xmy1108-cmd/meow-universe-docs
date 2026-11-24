@@ -9,6 +9,17 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-24
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| XMY（xmy.tw） | 內容導覽 | 洞察頁將醫區宅的展開清單收成一張專題卡。讀者可從卡片進入主指南，再查閱專題的 30 篇延伸文章。 | [觀點與研究](https://xmy.tw/insights) · [醫區宅專題](https://xmy.tw/articles/medical-housing) |
+| XMY（xmy.tw） | 標籤與搜尋 | 重整文章標籤。網站地圖納入 155 個標籤網址、移出 60 個，標籤網址總數由 192 增至 287。讀者可從標籤目錄按主題找文章，抽查的歷史標籤仍可開啟。 | [文章標籤](https://xmy.tw/tags) · [供應鏈標籤](https://xmy.tw/tag/supply-chain) · [歷史標籤範例](https://xmy.tw/tag/ai-business-models) · [網站地圖](https://xmy.tw/sitemap.xml) |
+| 診所喵 | 看診查詢與搜尋 | 夜間與週日看診的網站地圖新增 3,317 個夜診網址及 1,711 個週日看診網址，涵蓋行政區、科別等查詢頁。讀者可依所在地與科別查固定門診時段。 | [夜間看診](https://clinicmeow.com.tw/open/night/) · [週日看診](https://clinicmeow.com.tw/open/sunday/) · [夜診網站地圖](https://clinicmeow.com.tw/sitemap-night.xml) · [週日看診網站地圖](https://clinicmeow.com.tw/sitemap-sunday.xml) |
+| 診所喵 | 醫師資料 | 醫師名錄增加 9 個已核對的醫師頁及已公開名單入口，讀者可查服務院所、公開來源與核對日期。 | [已公開醫師名錄](https://clinicmeow.com.tw/doctors/?type=published) · [醫師網站地圖](https://clinicmeow.com.tw/sitemap-doctors.xml) |
+| 益生菌喵 | 專欄導覽 | 首頁加入專家專欄連結，讀者可直接從主選單查看專欄。 | [益生菌喵首頁](https://probioticmeow.com.tw/) · [專家專欄](https://probioticmeow.com.tw/columns/) |
+| 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 426 筆。讀者可核對卡牌資料的出處與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+
 ## 2026-11-23
 
 | 站點 | 分類 | 更新 | 公開來源 |
