@@ -9,6 +9,21 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-25
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| XMY（xmy.tw） | 研究發布 | 公開「AI 內容與漫劇產業」17 篇研究。讀者可從市場規模、分發補貼、製作成本與變現方式切入，再對照公司財報及海外市場。 | [AI 漫劇總覽](https://xmy.tw/articles/ai-manju-industry-overview-2026) · [AI漫劇標籤](https://xmy.tw/tag/ai-manju) · [XMY RSS](https://xmy.tw/feed.xml) |
+| XMY（xmy.tw） | 工具發布 | 公開 SEO 工具箱及 6 個工具。讀者可在瀏覽器內診斷排名下滑、預覽搜尋標題和社群分享卡、檢查標題層級、組合 Google 查詢，以及產生 FAQ 結構化資料。 | [SEO 工具箱](https://xmy.tw/tools/seo) · [搜尋標題預覽](https://xmy.tw/tools/seo/title-preview) · [網站地圖](https://xmy.tw/sitemap.xml) |
+| XMY（xmy.tw） | 內容導覽與設計 | 洞察頁新增「依標籤讀研究」，用 5 個分類呈現 16 張主題圖卡。讀者可從液冷散熱、現金流等標籤進入主題頁與導讀文章。 | [觀點與研究](https://xmy.tw/insights) · [液冷散熱專題](https://xmy.tw/tag/liquid-cooling) · [現金流專題](https://xmy.tw/tag/cash-flow) |
+| 診所喵 | 健康工具 | 推出健康工具與看診清單總覽，集中 62 項工具和資源，包含看診準備、頭痛月曆、成人 ADHD 六題自評、日誌與官方篩檢入口。讀者可按情境準備提問或整理就醫時要帶的資訊。 | [健康工具與看診清單](https://clinicmeow.com.tw/tools/health/) · [頭痛月曆](https://clinicmeow.com.tw/tools/headache-calendar/) · [我的看診小抄](https://clinicmeow.com.tw/tools/visit-notes/) |
+| 診所喵 | 醫師頁改版 | 試行新版醫師詳情頁，補上已核對的現職、院所聯絡入口和資料來源。讀者可先查服務院所，再向院所確認門診時段與掛號方式。 | [已公開醫師名錄](https://clinicmeow.com.tw/doctors/?type=published) |
+| 診所喵 | 連結修復 | 修正近兩週情緒自評與產後情緒共 2 個工具頁的安心專線說明連結，讀者可從頁面前往衛福部的公開說明。 | [近兩週情緒自評](https://clinicmeow.com.tw/tools/depression-phq9/) · [產後情緒](https://clinicmeow.com.tw/tools/postpartum-mood/) |
+| Care喵 | 長照工具 | 更新 6 個長照工具及其網站地圖日期，涵蓋出院準備、機構參觀、居家防跌、喘息服務、交通接送與長照特別扣除額。家庭可依照顧情境選用檢核表或試算。 | [出院前長照準備](https://caremeow.com.tw/tools/discharge-ltc-checklist/) · [喘息服務試算](https://caremeow.com.tw/tools/respite-calculator/) · [工具網站地圖](https://caremeow.com.tw/sitemap-tools.xml) |
+| 運動喵 | 內容發布 | 公開 3 篇裝備選購指南，涵蓋羽球拍穿線磅數、運動護腕與登山杖。讀者可按程度、使用場景與支撐需求比較規格。 | [羽球拍穿線磅數](https://sportmeow.com.tw/articles/badminton-racket-string-tension-guide/) · [運動護腕](https://sportmeow.com.tw/articles/wrist-guard-guide/) · [登山杖](https://sportmeow.com.tw/articles/hiking-pole-guide/) |
+| 食安喵 | 資料同步 | 正式站更新公開資料同步日期。讀者可從首頁查看最新收錄狀態，並沿食安事件年表及資料來源頁核對事件範圍與出處。 | [食安喵首頁](https://foodsafemeow.com.tw/) · [食安事件年表](https://foodsafemeow.com.tw/incidents) · [資料來源與方法](https://foodsafemeow.com.tw/about/data-sources) |
+| 喵宇宙共同平台 | 穩定性維護 | 提高共用平台支援同時查詢的容量，降低多站在流量集中時受到連線不足影響的機會。 | [喵宇宙平台](https://xmy.tw/ventures#meow-universe) · [運動喵](https://sportmeow.com.tw/) · [Care喵](https://caremeow.com.tw/) |
+
 ## 2026-11-24
 
 | 站點 | 分類 | 更新 | 公開來源 |
@@ -19,6 +34,7 @@
 | 診所喵 | 醫師資料 | 醫師名錄增加 9 個已核對的醫師頁及已公開名單入口，讀者可查服務院所、公開來源與核對日期。 | [已公開醫師名錄](https://clinicmeow.com.tw/doctors/?type=published) · [醫師網站地圖](https://clinicmeow.com.tw/sitemap-doctors.xml) |
 | 益生菌喵 | 專欄導覽 | 首頁加入專家專欄連結，讀者可直接從主選單查看專欄。 | [益生菌喵首頁](https://probioticmeow.com.tw/) · [專家專欄](https://probioticmeow.com.tw/columns/) |
 | 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 426 筆。讀者可核對卡牌資料的出處與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+| 診所喵 | 內容更新 | 看診提問指南補上回診出門前的查詢入口。讀者可在整理醫囑和下次回診問題後，接著查固定看診時段。 | [看診提問指南](https://clinicmeow.com.tw/articles/ask-doctor-questions/) · [今天看診](https://clinicmeow.com.tw/open/today/) |
 
 ## 2026-11-23
 
