@@ -9,6 +9,21 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-26
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| 喵宇宙共同平台 | 功能發布 | 「喵互助」公開 12 個免費贈送與徵求看板，包括童物傳承、輔具互助、毛孩用品與鄰里互助。讀者可免登入逛看板，依贈送或徵求等條件篩選，登入後可發文。 | [喵互助看板](https://account.xmy.tw/contribute/help/) · [童物傳承](https://account.xmy.tw/contribute/help/s/kidsmeow) · [使用規則](https://account.xmy.tw/contribute/help/rules) |
+| 幼兒喵 | 跨站導覽 | 幼兒園詳情頁加入「制服、書包傳承」區塊，家長可從查園頁前往喵互助童物看板，也可進入贈送或徵求的發文流程。 | [幼兒園詳情範例](https://kidsmeow.com.tw/place/k000aeeb007/) · [童物傳承看板](https://account.xmy.tw/contribute/help/s/kidsmeow) |
+| 幼兒喵 | 網站地圖 | 總網站地圖移除原本的工具子地圖，該子地圖網址目前無法開啟。讀者仍可從選園工具總覽使用費用試算、比較清單與參觀清單。 | [總網站地圖](https://kidsmeow.com.tw/sitemap.xml) · [選園工具總覽](https://kidsmeow.com.tw/tools/) |
+| XMY（xmy.tw） | 標籤與搜尋 | 改版文章標籤總覽，以主題分組顯示文章數並提供搜尋。總覽公開列出 192 個標籤，標籤頁補上主圖、導讀和起讀推薦，讀者可先挑主題再選文章。 | [文章標籤總覽](https://xmy.tw/tags) · [液冷散熱導讀](https://xmy.tw/tag/liquid-cooling) · [AI 商業模式導讀](https://xmy.tw/tag/ai-business-models) · [網站地圖](https://xmy.tw/sitemap.xml) |
+| XMY（xmy.tw） | 平台與網址 | 公開頁面切換為由伺服器從資料庫提供。專家共創專欄與專欄作家請使用不帶結尾斜線的網址。另有 4 篇既有文章移出網站地圖及 RSS，原網址目前無法開啟。 | [專家共創專欄](https://xmy.tw/columns) · [專欄作家](https://xmy.tw/experts) · [網站地圖](https://xmy.tw/sitemap.xml) · [XMY RSS](https://xmy.tw/feed.xml) |
+| XMY（xmy.tw） | 事業導覽 | 「正在做的事」新增 Add.one 卡片及官網入口，讀者可從 XMY 了解其品牌與團購主合作方式。 | [正在做的事](https://xmy.tw/ventures) · [Add.one](https://www.add.one/) |
+| 藥品喵 | 工具發布 | 公開 3 個用藥整理工具，包含藥袋標示檢核表、家庭藥箱盤點表及開封後效期計算。讀者可核對藥袋標示、整理藥箱，或輸入仿單標示的天數計算日期。 | [用藥小工具](https://drugmeow.com.tw/tools/) · [藥袋標示檢核表](https://drugmeow.com.tw/tools/medicine-bag-checklist/) · [開封後效期計算](https://drugmeow.com.tw/tools/opened-medicine-expiry/) |
+| 藥品喵 | 搜尋與許可證 | 在 60 個許可證頁試行新版標題，適用時補上英文品牌名，並以中文呈現許可證狀態。讀者可用熟悉的中英文品名辨認同一筆許可證。 | [固胃必朗錠](https://drugmeow.com.tw/drug/%E5%85%A7%E8%A1%9B%E8%97%A5%E8%A3%BD%E5%AD%97000373/) · [息樂炎膜衣錠](https://drugmeow.com.tw/drug/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%A3%BD%E5%AD%97061416/) |
+| KOLpedia | 延伸閱讀 | 3 篇團購指南補上 Add.one 的合作案例與品牌方案，並揭露創辦人與平台的關係。讀者可把指南中的定價、檔期與成效回報流程對照實際方案。 | [團購合作指南](https://kolpedia.tw/collaboration/guides/group-buy) · [團購定價](https://kolpedia.tw/collaboration/guides/group-buy-pricing) · [第一次開團清單](https://kolpedia.tw/collaboration/guides/group-buy-checklist) |
+| 卡牌喵 | 資料批次更新 | 公開來源紀錄較前次盤點增加 6 筆，累計 432 筆，讀者可從資料透明頁核對收錄來源與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+
 ## 2026-11-25
 
 | 站點 | 分類 | 更新 | 公開來源 |
