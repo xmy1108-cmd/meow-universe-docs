@@ -9,6 +9,30 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-27
+
+頂讓喵為本次核對的公開試點。部分子站的喵互助入口以本次可核對的正式版本補登，首次啟用時間尚未確認。
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| XMY（xmy.tw） | 研究發布 | 公開「全球農業科技政策」美國與台灣兩組研究，各 10 篇。讀者可從兩地總覽比較政策工具、採用情況及產業發展，再深入看專題。 | [美國農業科技總覽](https://xmy.tw/articles/agtech-us) · [台灣農業科技總覽](https://xmy.tw/articles/agtech-tw) |
+| XMY（xmy.tw） | 內容發布 | 生活行事曆新增一批 74 篇文章，涵蓋節慶、開學、購物與換季準備。當日晚間撤下其中 1 篇年度回顧模板，這批目前可查 73 篇。 | [台灣燈會準備](https://xmy.tw/articles/taiwan-lantern-festival-2027-miaoli-dates-transport) · [開學後的課表安排](https://xmy.tw/articles/after-school-2028-one-rest-day) · [網站地圖](https://xmy.tw/sitemap.xml) |
+| XMY（xmy.tw） | 專題與導覽 | 新增生活行事曆策展頁，將 187 篇文章整理成 8 組。讀者可從洞察頁按節日、家庭行程或季節需求挑選精選文章，再進入完整清單。 | [生活行事曆策展](https://xmy.tw/insights/topics/life-calendar) · [觀點與研究](https://xmy.tw/insights) |
+| XMY（xmy.tw） | 人物署名 | 統一中、英、日文關於頁的創辦人識別與人物結構化資料。不同語言頁面可回指同一個人物介紹。 | [中文關於頁](https://xmy.tw/about) · [英文關於頁](https://xmy.tw/en/about) · [日文關於頁](https://xmy.tw/ja/about) |
+| 頂讓喵 | 公開試點補登 | 核對正式網域已提供店面頂讓、二手餐飲設備及接店指南。現階段頁面標示台南試點，準備交接的店主可先查看刊登行前單。 | [頂讓喵](https://takeovermeow.com.tw/) · [設備專區](https://takeovermeow.com.tw/depot/index.html) · [店主刊登行前單](https://takeovermeow.com.tw/tools/first-listing.html) · [接店指南](https://takeovermeow.com.tw/guide/) |
+| 幼兒喵 | 專欄導覽 | 主選單依刊登狀態顯示「專欄作家」入口。未刊登文章時隱藏入口，專欄頁仍保留可直接開啟的空狀態。 | [幼兒喵首頁](https://kidsmeow.com.tw/) · [專欄作家](https://kidsmeow.com.tw/columns/) |
+| 幼兒喵 | 回報頁修復 | 恢復「一起補充育兒資訊」表單頁，舊園方補充網址也會轉往回報頁。讀者可開啟表單查看回報類別，送件功能目前暫停。 | [補充育兒資訊](https://kidsmeow.com.tw/report/) |
+| 地址喵 | 圖片修復 | 恢復首頁的社群分享預覽圖，讀者分享首頁網址時，平台可重新抓取正式圖片。 | [地址喵首頁](https://addressmeow.com.tw/) · [分享預覽圖](https://addressmeow.com.tw/og.png) |
+| 診所喵 | 醫師資料 | 已公開醫師名錄新增 1 個醫師詳情頁。讀者可從名錄查看服務院所與公開資料來源。 | [已公開醫師名錄](https://clinicmeow.com.tw/doctors/?type=published) · [醫師網站地圖](https://clinicmeow.com.tw/sitemap-doctors.xml) |
+| 診所喵 | 跨站導覽 | 復健相關頁面加入喵互助「康復用品」入口。讀者可前往看板查找或免費轉贈用不到的護具和輔具。 | [膝蓋痛看哪科](https://clinicmeow.com.tw/articles/knee-pain-which/) · [康復用品看板](https://account.xmy.tw/contribute/help/s/clinicmeow) |
+| 藥品喵 | 跨站導覽 | 用藥整理文章加入喵互助「用藥小物」看板入口，讓讀者轉贈或徵求收納與提醒小物。 | [出國帶藥指南](https://drugmeow.com.tw/articles/travel-with-medicine/) · [用藥小物看板](https://account.xmy.tw/contribute/help/s/drugmeow) |
+| 加油喵 | 跨站導覽 | 用車文章加入喵互助「車用小物」入口，讀者可轉贈或徵求收納、清潔用品與機車配件。 | [機車加油指南](https://petrolmeow.com.tw/articles/motorcycle-fueling-guide/) · [車用小物看板](https://account.xmy.tw/contribute/help/s/petrolmeow) |
+| 加油喵 | 工具網址與搜尋 | 網站地圖移出 3 個工具頁，原有的加油量換算、油耗紀錄與油價情境網址目前無法開啟。讀者可從工具總覽查看現有工具。 | [工具總覽](https://petrolmeow.com.tw/tools/) · [網站地圖](https://petrolmeow.com.tw/sitemap.xml) |
+| 當兵喵 | 跨站導覽 | 新訓行李清單加入「新訓用品傳承」入口，讀者可免費轉贈或徵求盥洗、收納等一般生活用品。 | [新訓行李清單](https://militarymeow.com.tw/training/packing/) · [新訓用品傳承看板](https://account.xmy.tw/contribute/help/s/militarymeow) |
+| 台灣交通喵 | 跨站導覽與網站地圖 | 行李及單車相關指南加入「通勤旅行物品」入口，讀者可免費轉贈或徵求行李箱、背包等用品。正式站的網站地圖及車站子地圖均可開啟。 | [台鐵行李指南](https://twtransitmeow.com.tw/guide/luggage-travel/) · [高鐵攜帶物品指南](https://twtransitmeow.com.tw/articles/thsr-luggage-bike-pet-rules/) · [網站地圖](https://twtransitmeow.com.tw/sitemap.xml) |
+| 關係喵 | 網站地圖 | 網站地圖補列 2027 與 2028 年的 2 篇七夕指南。讀者可查兩年的日期，並參考安排約會及溝通彼此期待的做法。 | [2027 七夕指南](https://relationmeow.com.tw/articles/qixi-2027-habit-talk/) · [2028 七夕指南](https://relationmeow.com.tw/articles/qixi-2028-expectation-gap/) · [網站地圖](https://relationmeow.com.tw/sitemap.xml) |
+| 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 438 筆。讀者可從資料透明頁核對來源與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+
 ## 2026-11-26
 
 | 站點 | 分類 | 更新 | 公開來源 |
