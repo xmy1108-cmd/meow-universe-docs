@@ -9,6 +9,23 @@
 - 一次更新以正式頁面或公開公告為依據。可公開說明的技術維護寫成讀者看得懂的摘要；僅限內部的詳細維運資訊仍留在各工作來源。
 - 發布時更新本文件。每日盤點補登可核對的漏項；同一變更按站點、日期與內容去重。
 
+## 2026-11-28
+
+| 站點 | 分類 | 更新 | 公開來源 |
+| --- | --- | --- | --- |
+| XMY（xmy.tw） | 英文站群目錄 | 新增英文版喵宇宙目錄，從英文首頁可進入。讀者可按生活、交通、教育等 11 個主題找站，並查看英文站名與部分站點的用途說明。 | [英文目錄](https://xmy.tw/en/meow-universe) · [英文首頁](https://xmy.tw/en) |
+| XMY（xmy.tw） | 公開站群名錄 | 中英文公開營運目錄移除慾望喵，兩版目錄目前各列出 101 個正式主網域。 | [中文目錄](https://xmy.tw/meow-universe) · [英文目錄](https://xmy.tw/en/meow-universe) |
+| XMY（xmy.tw） | 搜尋與內容標示 | 更新中文頁的搜尋與分享標題署名，並縮短 131 個頁面的搜尋標題。醫區宅 31 篇的系列標示統一為「台灣房市研究」，讀者可在結果與系列入口更快辨認主題。 | [台灣農業科技研究](https://xmy.tw/articles/agtech-tw) · [AI 漫劇產業研究](https://xmy.tw/articles/ai-manju-industry-overview-2026) · [醫區宅專題](https://xmy.tw/articles/medical-housing) |
+| XMY（xmy.tw） | 關於頁與人物資料 | 中文關於頁移除 X 平台卡片。英文與日文關於頁補上與中文版一致的公開人物連結資料，方便搜尋服務辨識各語言版本所指的同一位創辦人。 | [中文關於頁](https://xmy.tw/about) · [英文關於頁](https://xmy.tw/en/about) · [日文關於頁](https://xmy.tw/ja/about) |
+| 幼兒喵 | 專家專欄 | 刊登〈AI 時代怎麼陪孩子長大〉，主選單顯示「專欄作家」。家長可從選單閱讀文章與作者介紹。 | [專欄作家](https://kidsmeow.com.tw/columns/) · [AI 時代怎麼陪孩子長大](https://kidsmeow.com.tw/columns/column-42116fd2-1671-460a-87b6-5952345fcd4e/) |
+| 幼兒喵 | 回報功能 | 「一起補充育兒資訊」表單恢復收件，家長及園方可回報資料錯誤、補充設施或提報新地點。 | [補充育兒資訊](https://kidsmeow.com.tw/report/) |
+| 喵宇宙共同平台 | 喵互助入口 | 啟用可分批顯示喵互助入口的設定。幼兒喵園所頁及垃圾車喵大型垃圾指南目前隱藏這批入口，讀者仍可直接進入喵互助看板。 | [喵互助看板](https://account.xmy.tw/contribute/help/) · [幼兒園詳情範例](https://kidsmeow.com.tw/place/k000aeeb007/) · [大型垃圾指南](https://garbagemeow.com.tw/bulky/) |
+| 喵宇宙共 19 站 | 首頁載入 | 首頁主圖加入多種尺寸，瀏覽器可依螢幕選擇合適的圖檔。涵蓋診所喵、生日喵、露營喵、修繕喵、營養喵、藥品喵、回收喵、大學喵、商圈喵、公園喵、飲水喵、捐血喵、物流喵、日本交通喵、公廁喵、海況喵、台灣房地產喵、充電喵與加油喵。另確認露營喵、捐血喵、藥品喵及停車喵調整了首頁字型載入方式。 | [診所喵](https://clinicmeow.com.tw/) · [露營喵](https://campmeow.com.tw/) · [加油喵](https://petrolmeow.com.tw/) · [捐血喵](https://bloodmeow.com.tw/) |
+| 台灣交通喵 | 票價頁與載入 | 台鐵、高鐵及台北捷運的 3 個票價頁採用繁體中文標題與說明，並延後畫面外大型表格的排版與互動前的廣告載入。讀者可先辨認票價頁內容，再查看表格。 | [台鐵票價](https://twtransitmeow.com.tw/fare/tra/) · [高鐵票價](https://twtransitmeow.com.tw/fare/thsr/) · [台北捷運票價](https://twtransitmeow.com.tw/fare/trtc/) |
+| 停車喵 | 工具網址與搜尋 | 網站地圖移出 61 個工具網址，逐一核對均回傳找不到頁面，範圍包含工具總覽、費用試算與停車比較。耶誕與跨年商圈的停車交管工具仍可查閱。 | [網站地圖](https://parkingmeow.com.tw/sitemap.xml) · [耶誕與跨年停車交管](https://parkingmeow.com.tw/tools/2026-holiday-event-parking/) |
+| 考試喵 | 內容發布 | 新增 3 篇托福與數位 SAT 指南。考生可查托福新分數量尺和寄送方式、托福家考設備及環境規定，以及 SAT 的題型、練習資源與考期。 | [托福新制](https://exammeow.com.tw/articles/toefl-ibt-2026-new-score-scale-registration-score-sending/) · [托福家考](https://exammeow.com.tw/articles/toefl-ibt-home-edition-equipment-room-rules/) · [數位 SAT](https://exammeow.com.tw/articles/digital-sat-format-official-practice-test-dates-2026-2027/) |
+| 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 444 筆。讀者可從資料透明頁核對來源與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+
 ## 2026-11-27
 
 頂讓喵為本次核對的公開試點。部分子站的喵互助入口以本次可核對的正式版本補登，首次啟用時間尚未確認。
@@ -32,6 +49,7 @@
 | 台灣交通喵 | 跨站導覽與網站地圖 | 行李及單車相關指南加入「通勤旅行物品」入口，讀者可免費轉贈或徵求行李箱、背包等用品。正式站的網站地圖及車站子地圖均可開啟。 | [台鐵行李指南](https://twtransitmeow.com.tw/guide/luggage-travel/) · [高鐵攜帶物品指南](https://twtransitmeow.com.tw/articles/thsr-luggage-bike-pet-rules/) · [網站地圖](https://twtransitmeow.com.tw/sitemap.xml) |
 | 關係喵 | 網站地圖 | 網站地圖補列 2027 與 2028 年的 2 篇七夕指南。讀者可查兩年的日期，並參考安排約會及溝通彼此期待的做法。 | [2027 七夕指南](https://relationmeow.com.tw/articles/qixi-2027-habit-talk/) · [2028 七夕指南](https://relationmeow.com.tw/articles/qixi-2028-expectation-gap/) · [網站地圖](https://relationmeow.com.tw/sitemap.xml) |
 | 卡牌喵 | 資料批次更新 | 新增 6 筆公開來源紀錄，累計 438 筆。讀者可從資料透明頁核對來源與更新時間。 | [卡牌資料來源與更新狀態](https://cardmeow.com.tw/sources) |
+| XMY（xmy.tw） | 生活行事曆功能 | 在原有策展頁之外，新增日曆總覽、12 個月份頁與 366 個日期頁，包含 2 月 29 日。讀者可按日期找主題與相關文章，其中 96 個日期頁已列入網站地圖。 | [日曆總覽](https://xmy.tw/insights/calendar) · [11 月行事曆](https://xmy.tw/insights/calendar/11) · [日期頁範例](https://xmy.tw/insights/calendar/11-28) |
 
 ## 2026-11-26
 
